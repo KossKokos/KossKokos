@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior Data Scientist<br>🛠️ Model Making<br>🧑‍💻 Predictions, Clustering, Classification<br>📊 Visualization<br>🔎 Data Analysis<br>🧹 Data Cleaning<br>🧐 Data Collection
+Junior ML / Applied AI candidate building Python projects with data, models, APIs, and practical machine learning.
 
 
 ## 🌐 Socials:
