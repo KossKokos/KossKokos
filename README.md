@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior ML / Applied AI candidate building Python projects with data, models, APIs, and practical machine learning.
+Junior Data Scientist / Junior ML / Applied AI candidate building Python projects with data, models, APIs, and practical machine learning.
 
 
 ## 🌐 Socials:
